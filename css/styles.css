@@ -1177,6 +1177,16 @@ font-size: 30px;
 padding-top: 11px;
 text-align: center;   
 }
+.final-div ul li:hover{
+display: inline-block;
+width: 55px;
+height: 55px;
+border-radius: 50%;
+background-color: black;
+color: #fff;
+font-size: 30px;
+text-align: center;  
+}
 .final-div2{
 width: 500px;height: 25px;
 margin: auto;
